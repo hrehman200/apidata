@@ -12,7 +12,7 @@ require_once __DIR__ . '/header.php';
 
     <hr />
 
-    <p class="text-right"><b>Note:</b> Search will be done on Property Type, Address, Bedrooms, Price and Type columns only.</p>
+    <p class="text-right"><b>Note:</b> Search will be done on Property Type, Town, Bedrooms, Price and Type columns only.</p>
 
     <div class="row">
         <div class="col-12">
