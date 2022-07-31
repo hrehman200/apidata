@@ -24,7 +24,7 @@
 
 3. Create database and import the schema from the schema folder
 
-4. Srap the properties by running the scrap.php script from the command line.
+4. Scrap the properties by running the scrap.php script from the command line.
 
     ```sh
     php scrap.php
